@@ -21,7 +21,7 @@
 
 <img width="1743" height="350" alt="изображение" src="https://github.com/user-attachments/assets/925d82a3-e9e2-4223-9716-0d7206467279" />
 
-<img width="1450" height="407" alt="изображение" src="https://github.com/user-attachments/assets/c7c68091-a34f-423c-b2f7-afd9017e382a" />
+
 
 
 ## TЕХНИЧЕСКИЕ НАВЫКИ
