@@ -28,9 +28,9 @@
 
 ### 🔴 Экспертиза (Advanced - 3+ лет использования):
 
-  • Java (JDK 8/11/17) + Kotlin— Collections, Lambda, Stream API, Concurrency, JDBC, JPA
+  • Java (JDK 8/11/17/21) + Kotlin— Collections, Lambda, Stream API, Concurrency, JDBC, JPA
   
-  • Spring Boot 2.x/3.x — архитектура, лучшие практики, production deployment
+  • Spring Boot 2.x/3.x/4.x — архитектура, лучшие практики, production deployment
   
   • Spring Data JPA & Hibernate — сложные маппинги, оптимизация, N+1 решения
   
