@@ -12,13 +12,6 @@
 </p>
 
 
-<!---[![FACEBOOK](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://github.com/DEBAGanov)
-[![TELGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/baganovs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/DEBAGanov)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bagano/)-->
-
-
-
 <h1 align="center">Привет, я <a href="https://t.me/alwayswant" target="_blank">Денис Гутый</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"> Я опытный инженер-программист с опытом разработки приложений на Java. </h3>
