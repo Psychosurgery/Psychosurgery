@@ -24,62 +24,25 @@
 
 
 
-## TЕХНИЧЕСКИЕ НАВЫКИ
+## ТЕХНИЧЕСКИЕ НАВЫКИ
 
-### 🔴 Экспертиза (Advanced - 3+ лет использования):
+### 🔴 Expert (Advanced, 3+ years)
+* **Languages:** Java (8, 11, 17, 21), Kotlin
+* **Core Frameworks:** Spring Boot (2.x, 3.x, 4.x), Spring Data JPA, Hibernate
+* **Security:** Spring Security (JWT, OAuth2, OpenID Connect)
+* **Databases:** PostgreSQL
+* **Containerization:** Docker, Docker Compose
+* **API Design:** REST API, OpenAPI/Swagger
 
-  • Java (JDK 8/11/17/21) + Kotlin— Collections, Lambda, Stream API, Concurrency, JDBC, JPA
-  
-  • Spring Boot 2.x/3.x/4.x — архитектура, лучшие практики, production deployment
-  
-  • Spring Data JPA & Hibernate — сложные маппинги, оптимизация, N+1 решения
-  
-  • PostgreSQL — проектирование схемы, индексирование, query optimization, анализ slow queries
-  
-  • Docker & Docker-compose — production-ready images, multi-stage builds, local development
-  
-  • REST API — проектирование, HTTP методы, status codes, OpenAPI/Swagger
-  
-
-### 🟡 Продвинутые навыки (Intermediate - 1-2 года использования):
-
-  • Redis — кэширование, TTL, стратегии кэширования
-  
-  • SQL & Query Optimization — индексирование, explain plans, оптимизация
-  
-  • JUnit 5 & Mockito — юнит тестирование, интеграционные тесты, мокирование
-  
-  • TestContainers — интеграционное тестирование с реальной БД и внешними сервисами
-  
-  • GitLab CI/CD — pipeline конфигурация, автоматизация сборки и деплоя
-  
-  • Maven & Gradle — dependency management, build configuration
-  
-  • Git/GitHub/GitLab — ежедневное использование, feature branches, code review
-  
-  • Apache Kafka
-
-### 📐 Архитектура и подходы:
-
-  • Microservices Architecture — проектирование, разбиение монолита, сервис-to-сервис коммуникация
-    
-  • Domain-Driven Design (DDD) — bounded contexts, aggregate roots, repository pattern
-  
-  • Design Patterns — Repository, Service, Factory, Singleton, Decorator, Strategy
-  
-  • SOLID Principles — Single Responsibility, Open/Closed, Interface Segregation, Liskov, Inversion
-  
-### 🔄 Методологии и практики:
-
-  • Agile/Scrum — спринты, планирование, ретроспективы, stand-ups
-  
-  • Code Review — проведение и получение feedback, лучшие практики
-  
-  • Pair Programming — опыт совместной разработки
-  
-  • TDD — test-driven development, coverage, quality assurance
-  
-
+### 🟡 Intermediate(1-3 years)
+* **Distributed Systems:** Spring Cloud (Config Server, Eureka, Gateway, OpenFeign, Circuit Breaker)
+* **Messaging:** Apache Kafka
+* **NoSQL & Caching:** Redis, ElasticSearch, MongoDB
+* **Observability:** Micrometer, Prometheus, Grafana, OpenTelemetry
+* **Database Migration:** Liquibase
+* **Testing:** JUnit 5, Mockito, TestContainers
+* **CI/CD & Build Tools:** GitLab CI/CD, Maven, Gradle
+* **Cloud & Tools:** AWS S3, GitLab
 
 ## ОБРАЗОВАНИЕ
 
